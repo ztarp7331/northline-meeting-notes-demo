@@ -1,0 +1,19 @@
+Northline Weekly Sync — Sep 12, 2026
+Attendees: Priya (PM), Marcus (Eng), Lena (Design), Jordan (CS)
+
+Agenda / discussion:
+- Q4 launch date locked for Nov 3. Marketing needs final feature list by Sep 26.
+- Onboarding redesign: Lena will share Figma v2 by Wednesday. Marcus to review for
+  engineering feasibility before Friday standup.
+- Support ticket spike on SSO login (≈40 tickets this week). Jordan to pull top
+  failure modes and send to Marcus by Monday. Marcus will open a bugfix if needed.
+- Customer advisory board invite list: Priya drafting; needs Jordan's top 5 accounts
+  by EOD Tuesday.
+- Budget: no travel approved for October conference — remote attendance only.
+
+Decisions:
+1. Ship SSO hotfix ahead of the redesign if ticket volume stays high.
+2. CAB invites go out next week.
+
+Open questions:
+- Do we need legal review on the CAB NDA? Priya to check with counsel.
