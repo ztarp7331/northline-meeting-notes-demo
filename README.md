@@ -30,7 +30,7 @@ Optional local UI: `pip install gradio && python app.py`
 
 | | |
 |---|---|
-| This repo | `https://github.com/Pratz1337/northline-meeting-notes-demo` |
+| This repo | `https://github.com/ztarp7331/northline-meeting-notes-demo` |
 | Paid unlock ($39) | `https://northline.gumroad.com/REPLACE` — extra prompts, batch mode, hardened examples |
 | Custom 48h builds | https://contra.com/s/6goFrYLF-custom-ai-workflow-python-script-in-48-hours-or-for-solopreneur |
 
