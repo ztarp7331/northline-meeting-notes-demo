@@ -7,7 +7,7 @@ Built with Python + Claude (bring your own API key).
 ## 2-minute try (no API key)
 
 ```bash
-unzip northline-meeting-notes-demo.zip
+# clone or unzip the release
 cd northline-meeting-notes-demo
 python3 -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -30,8 +30,9 @@ Optional local UI: `pip install gradio && python app.py`
 
 | | |
 |---|---|
-| This repo | `https://github.com/ztarp7331/northline-meeting-notes-demo` |
-| Paid unlock ($39) | `https://northline.gumroad.com/REPLACE` — extra prompts, batch mode, hardened examples |
+| This repo | https://github.com/ztarp7331/northline-meeting-notes-demo |
+| Release zip | https://github.com/ztarp7331/northline-meeting-notes-demo/releases/tag/v0.1.0 |
+| Paid unlock ($39) | Gumroad (link after listing goes live) |
 | Custom 48h builds | https://contra.com/s/6goFrYLF-custom-ai-workflow-python-script-in-48-hours-or-for-solopreneur |
 
 ## What you get (free)
